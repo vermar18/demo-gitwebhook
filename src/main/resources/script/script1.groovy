@@ -32,5 +32,7 @@ def Message processData(Message message) {
         )
     }
 
+    println("This is jsut trail")
+
     return message
 }
